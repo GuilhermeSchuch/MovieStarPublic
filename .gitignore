@@ -1,0 +1,9 @@
+/vendor
+/img/ageRestriction icons
+API_KEYS.php
+db.php
+auth_process.php
+globals.php
+movie_process.php
+review_process.php
+user_process.php
