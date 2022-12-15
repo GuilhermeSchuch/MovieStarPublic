@@ -69,4 +69,38 @@
   <p>Na tela do Dashboard, é listado os filmes/séries cadastrados pelo usuário logado, por ordem decrescente de Rating (nota). Nessa tela, é possível adicionar (redireciona para a tela de criação do filme/série), editar (redireciona para a tela de edição do filme/série) ou deletar um filme/série.</p>
     
   </div>
+  
+  <hr>
+  
+  <div>
+    <h3>Tela de Categoria Específica</h3>
+    <img src="https://user-images.githubusercontent.com/77582686/207960727-8f90ba20-fa9d-4b15-905d-fd57d311143d.jpeg" width=900px></img>
+
+  <p>É possível chegar nessa tela ao clicar em uma categoria específica na tela inicial. Esse tela demonstra tdos os filmes/séries relacionados àquela categoria, em ordem de Rating (nota) decrescente.</p>
+    
+  </div>
+  
+  <hr>
+  
+  <div>
+    <h3>Tela de Filme/Série</h3>
+    <img src="https://user-images.githubusercontent.com/77582686/207963176-045f8c4a-ac5c-4000-8946-d719d602a99f.jpeg" width=900px></img>
+    
+  <strong><p>Nessa tela, o usuátio terá as seguintes informações sobre o filme/série:</p></strong>
+  
+  <em><span>◉Nome; </span></em>
+  <em><span>◉Duração (Length); </span></em>
+  <em><span>◉Categoria; </span></em>
+  <em><span>◉Rating (nota); </span></em>
+  <em><span>◉Restrição de idade; </span></em>
+  <em><span>◉Trailer; </span></em>
+  <em><span>◉Sinopse; </span></em>
+  <em><span>◉Usuário que postou (Posted By); </span></em>
+  <em><span>◉Capa; </em></span>
+  
+  <p>Ao clicar no nome em 'Posted by', o usuário será redirecionado para o perfil da pessoa.</p>
+  
+  <p>Logo abaixo, há uma área de 'Reviews' (Avaliações) onde, se o usuário já avaliou, poderá editar ou excluir sua 'Review'.</p>
+  
+  </div>
 </div>
